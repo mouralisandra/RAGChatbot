@@ -1,0 +1,10 @@
+langchain
+llama-cpp-python
+huggingface_hub
+streamlit
+langchain_community
+llama-cpp-python
+sentence-transformers
+chromadb
+torch
+transformers
